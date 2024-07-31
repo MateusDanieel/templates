@@ -4,4 +4,9 @@ Este repositório conta com alguns templates que desenvolvi em 2019 para agiliza
 
 # COMO VISUALIZAR? (GitHub Pages)
 
-Basta digitar na barra de endereços do seu navegador: mateusdanieel.github.io/templates/# (substitua o "#" no final do link pelo número que está na pasta do template desejado).
+Basta clicar nos links abaixo.
+
+https://mateusdanieel.github.io/templates/1
+https://mateusdanieel.github.io/templates/2
+https://mateusdanieel.github.io/templates/3
+https://mateusdanieel.github.io/templates/4
