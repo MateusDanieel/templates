@@ -6,7 +6,7 @@ Este repositório conta com alguns templates que desenvolvi em 2019 para agiliza
 
 Basta clicar nos links abaixo.
 
-# https://mateusdanieel.github.io/templates/1
-# https://mateusdanieel.github.io/templates/2
-# https://mateusdanieel.github.io/templates/3
-# https://mateusdanieel.github.io/templates/4
+# <a href='https://mateusdanieel.github.io/templates/1'>TEMPLATE 1</a>
+# <a href='https://mateusdanieel.github.io/templates/2'>TEMPLATE 2</a>
+# <a href='https://mateusdanieel.github.io/templates/3'>TEMPLATE 3</a>
+# <a href='https://mateusdanieel.github.io/templates/4'>TEMPLATE 4</a>
